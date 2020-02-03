@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eukahchohl.xiaoqipei.com/sitemap.xml
